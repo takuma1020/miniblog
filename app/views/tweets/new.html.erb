@@ -1,0 +1,11 @@
+<div class="contents row">
+  <div class="form">
+    <%= form_tag('/tweets', method: :post) do %>
+      <h3 class="honbun">
+        本文
+      </h3>
+      <textarea class="textarean" name="text" rows="5" cols="200"></textarea>
+      <input class="boxn" type="submit" value="送信"></input>
+    <% end %>
+  </div>
+</div>

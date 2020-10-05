@@ -1,0 +1,281 @@
+* {
+  margin:0; padding:0;
+}
+
+header {
+  width: 100%;
+  padding: 15px 0;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.header__bar.row {
+    background-color: #00a968;
+    display: flex;
+    justify-content: space-between;
+    height:120px;
+}
+
+.Blog {
+    font-size: 50px;
+    color: white;
+    padding-left: 800px;
+    margin-bottom: 60px;
+} 
+
+
+.post {
+    font-size: 20px;
+    color: white;
+}
+
+.signout {
+     font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.honbun {
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+    margin-left: 350px;
+}
+
+.form {
+    margin: 120px;
+}
+
+.textareae {
+    margin-left: 450px;
+    height: 400px;
+    width: 800px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-color: #00a968;
+    border-bottom-width: thick;
+}
+
+.textarean {
+    margin-left: 350px;
+    height: 400px;
+    width: 800px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-color: #00a968;
+    border-bottom-width: thick;
+}
+    
+
+.boxe {
+    margin-left: 780px;
+    width: 160px;
+    height: 80px;
+    background-color: #00a968;
+    border-radius: 10px;
+    border: none;
+    font-size: 25px;
+    color: white;
+}
+
+.boxn {
+     width: 160px;
+    height: 80px;
+    background-color: #00a968;
+    border-radius: 10px;
+    border: none;
+    font-size: 25px;
+    color: white;
+    margin-left: 675px;
+}
+
+.success {
+    color: #00a968;
+}
+
+footer {
+    width: 100;
+    color: #00a968;
+    text-align: center;
+    bottom: 0; /*下に固定*/
+    font-size: 25px;
+}
+
+.content_post {
+    height: 300px;
+    width: 1000px;
+    border: 1px solid #eeeeee;
+    box-shadow: 0px 0px 10px 0px;
+    margin: 30px 0 30px 375px;
+    border-radius: 10px;
+}
+
+.btnd {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #00a968;
+    border-radius: 10px;    
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+
+.destroy {
+    margin-left: 10px;
+    color: white;
+}
+
+
+.paginate {
+    margin-left: 800px;
+    margin-bottom: 20px;
+    color: #00a968;
+    font-size: 30px;
+}
+
+.btne {
+    padding-top: 10px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #00a968;
+    border-radius: 10px;
+}
+
+.hensyuu {
+    margin-left: 450px;
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+}
+
+
+.edit {
+    margin-left: 30px;
+    color: white;
+}
+
+.more_list {
+    display: flex;
+    justify-content: start;
+    margin-top: 200px;
+    margin-left: 15px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.postl {
+    margin-right: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.posts {
+    color: white;
+    font-size: 20px;
+}
+
+.grid-6 {
+    padding-top: 25px;
+    margin-right: 20px;
+}
+
+.signup {
+    height: 380px;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 450px;
+    border: solid;
+    border: transparent;
+    box-shadow: 1px 0 5px 1px #999;
+}
+
+
+.sign {
+    margin-left:450px;
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+}
+
+.field {
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+    margin-left: 30px;
+}
+
+
+.actions {
+    margin-left: 15px;
+    margin-top: 20px;
+   
+}
+
+.sb {
+    height: 60px;
+    width: 780px;
+    border-radius: 20px;
+    color: white;
+    background-color: #00a968;
+    border: solid;
+    border: transparent;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.fielde {
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+}
+
+.fieldp {
+    margin-top: 20px;
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+}
+
+.fieldpc {
+    margin-top: 20px;
+    opacity: 0.5;
+    background-color: rgba(0,0,1,0);
+}
+
+.fieldee {
+    height: 50px;
+    width: 780px;
+}
+
+
+.fieldpp {
+    height: 50px;
+    width: 780px;
+}
+
+.fieldppc {
+    height: 50px;
+    width: 780px;
+}
+
+.log 
+
+
+
+
+
+
+
+    
+
+
+    
+    
+
